@@ -1,0 +1,50 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\AnkletOdevBootsRap.dll.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\AnkletOdevBootsRap.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\AnkletOdevBootsRap.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\EntityFramework.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Helpers.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Razor.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Webpages.Deployment.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Webpages.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Webpages.Razor.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\EntityFramework.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Razor.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Webpages.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Webpages.Deployment.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Webpages.Razor.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Helpers.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\obj\Debug\AnkletOdevBootsRap.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\obj\Debug\AnkletOdevBootsRap.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\documents\visual studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Mvc.dll
+C:\Users\PC\documents\visual studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\WebActivatorEx.dll
+C:\Users\PC\documents\visual studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Mvc.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\AnkletOdevBootsRap\AnkletOdevBootsRap\obj\Debug\AnkletOdevBootsRap.csprojResolveAssemblyReference.cache
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\AnkletOdevBootsRap.dll.config
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\AnkletOdevBootsRap.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\AnkletOdevBootsRap.pdb
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\EntityFramework.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\EntityFramework.SqlServer.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Helpers.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Mvc.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Razor.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.WebPages.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.WebPages.Razor.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\WebActivatorEx.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\EntityFramework.xml
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\EntityFramework.SqlServer.xml
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Helpers.xml
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Mvc.xml
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.Razor.xml
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.WebPages.xml
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\bin\System.Web.WebPages.Razor.xml
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\obj\Debug\AnkletOdevBootsRap.csprojAssemblyReference.cache
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\obj\Debug\AnkletOdevBootsRap.csproj.CoreCompileInputs.cache
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\obj\Debug\AnkletOdevBootsRap.csproj.CopyComplete
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\obj\Debug\AnkletOdevBootsRap.dll
+C:\Users\AKR3P\source\repos\AnkletOdevBootsRap\AnkletOdevBootsRap\obj\Debug\AnkletOdevBootsRap.pdb
